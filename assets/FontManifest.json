@@ -1,0 +1,82 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+          {
+            "asset": "fonts/MaterialIcons-Regular.otf"
+          }
+        ]
+      },  {
+        "family": "Anjoman-Black",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-Black.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-UltraBold",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-UltraBold.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-ExtraBold",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-ExtraBold.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-Bold",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-Bold.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-SemiBold",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-SemiBold.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-Medium",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-Medium.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-Regular",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-Regular.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-Light",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-Light.ttf"
+          }
+        ]
+      },
+      {
+        "family": "Anjoman-ExtraLight",
+        "fonts": [
+          {
+            "asset": "fonts/Anjoman-ExtraLight.ttf"
+          }
+        ]
+      }
+
+]
